@@ -12,13 +12,13 @@ Sistema integral para la digitalización y gestión automatizada de registros de
 - Dashboard interactivo para gestión visual
 
 ###  Características Principales
-- ✅ Generación automática de IDs únicos
-- ✅ Integración con QGIS para mapeo
-- ✅ Formularios digitales de captura
-- ✅ Validaciones automáticas de datos
-- ✅ Dashboard interactivo en Streamlit
+-  Generación automática de IDs únicos
+-  Integración con QGIS para mapeo
+-  Formularios digitales de captura
+-  Validaciones automáticas de datos
+-  Dashboard interactivo en Streamlit
 
-## 🛠️ Instalación y Uso
+##  Instalación y Uso
 
 ### Prerrequisitos
 ```bash
